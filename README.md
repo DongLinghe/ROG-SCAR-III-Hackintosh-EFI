@@ -1,4 +1,4 @@
-# ROG-SCAR-III-Hackintosh-EFI
+# ROG-SCAR-III-Hackintosh-EFI（G531GW）
 
 
 Please use Mojave(10.14) 
