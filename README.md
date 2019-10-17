@@ -1,16 +1,6 @@
 # ROG-SCAR-III-Hackintosh-EFI（G531GW）
 
-
-Please use Mojave(10.14) 
-
-
-EFI FOR Ror SCAR III Hackintosh 
-
-
-BUG LIST:Touch pad,Wifi,Bluetooth,3.5mm,Bettery
-
-
-If you find a problem or can solve the problem, please contact me.
-
-
+支持Catalina
+bug：蓝牙 WiFi 独显 触控板 休眠 键盘背光
+如果你可以修好请联系我：donglinghe@live.com
 special thanks:@GOOPHER @烈焰2号
